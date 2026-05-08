@@ -37,7 +37,7 @@
 | **Transmission** | Rigid Coupler | 5mm to 8mm | 4 |
 | **Bearings** | 608ZZ Bearing | 8x22x7mm | 4 |
 
-### Fasteners (Visserie)
+### Fasteners
 | Type | Specification | Qty | Application |
 | :--- | :--- | :--- | :--- |
 | **M5 Screw** | M5x20mm | 22 | Frame assembly (T-Nuts required) |
